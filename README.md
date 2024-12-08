@@ -3,12 +3,12 @@
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 ## Screenshot
-![discord ststus](.github/archived/images/v2023.10.01/discord-status.png)
+![discord status](.github/archived/images/v2023.10.01/discord-status.png)
 
 ## Installation 
-*(for now only available on windows)*
+*(for now only available on Windows)*
 
-Download [last release](https://github.com/bukanspot/DiscordBox/releases), instruction for installation include in zip file.
+Download [latest release](https://github.com/bukanspot/DiscordBox/releases), instructions for installation are included in zip file.
 
 
 ## Develovment
@@ -72,7 +72,7 @@ For compile to `.exe` use this code
 ```cmd
 pyinstaller.exe --onefile .\main.pyw
 ```
-The `.exe` file found in `dist` directory.
+The `.exe` file can be found in `dist` directory.
 
 ## Note
 - The original source has been archived, it's available at [vidhanio/virtualbox-rich-presence](https://github.com/vidhanio/virtualbox-rich-presence)
