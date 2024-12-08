@@ -19,11 +19,18 @@ Download [last release](https://github.com/bukanspot/DiscordBox/releases), instr
 - [Compile](#compile)
 
 ### Setup
-First, clone or download the repository.
+First, clone or [download the repository](https://github.com/bukanspot/DiscordBox/archive/refs/heads/master.zip).
 
-```cmd
-git clone git@github.com:bukanspot/DiscordBox.git
-```
+`git clone`:
+  > HTTPS:
+  > ```bash
+  > git clone https://github.com/bukansport/DiscordBox.git
+  > ```
+  
+  > SSH:
+  > ```cmd
+  > git clone git@github.com:bukanspot/DiscordBox.git
+  > ```
 
 Then go to the [VirtualBox downloads page](https://www.virtualbox.org/wiki/Downloads) and download the VirtualBox SDK.
 
